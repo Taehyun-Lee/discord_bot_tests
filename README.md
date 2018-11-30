@@ -1,6 +1,6 @@
 # discord_bot_tests
 
-A repository to do some tests with python discord API.
+A repository to do some tests with python discord API (just play around a bit👍👍).
 
 ## Goal
 Make a bunch of .py files that contain simple tests that will run the bot.
