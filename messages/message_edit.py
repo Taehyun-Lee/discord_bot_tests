@@ -16,6 +16,8 @@ async def on_ready():
 @client.event
 async def on_message(message):
   if(len(message.mentions) > 0):
+    for msg in client.messages:
+      print(msg.content)
     return
 
   if(message.author == client.user):
